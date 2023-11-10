@@ -2,13 +2,13 @@
 <img align='right' src="https://github.com/anupammaurya6767/rakshak-app/assets/96181413/c4c25191-7791-49a1-bd05-55fa5bc15cce">
 
 ## Overview
-<img align='right' src="https://github.com/anupammaurya6767/rakshak-app/assets/96181413/1645ae51-c62a-4fe2-acca-ecfbb13d72b9" width="230">
 Rakshak is a comprehensive home security Flutter app designed to provide users with a seamless and intuitive interface for monitoring and managing their home security system. Whether you are using it on the web, Android, or iOS, Rakshak ensures a consistent and user-friendly experience.
 
 ## Features
 
 - **Authentication:** 🔒 Securely access your home security system with user authentication.
 - **Dashboard:** 📊 Get a real-time overview of your security system's status, recent motion events, and overall health.
+ <img align='right' src="https://github.com/anupammaurya6767/rakshak-app/assets/96181413/1645ae51-c62a-4fe2-acca-ecfbb13d72b9" width="230">
 - **Live Video Feed:** 🎥 Stream live video from your security cameras directly within the app.
 - **Motion Event Logs:** 📅 Review a detailed log of recent motion detection events, including timestamps and images.
 - **Security System Control:** 🚨 Arm, disarm, and configure security modes with ease.
