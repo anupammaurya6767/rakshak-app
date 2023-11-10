@@ -23,7 +23,6 @@ Rakshak is a comprehensive home security Flutter app designed to provide users w
 - Firebase account for backend integration.
 
 ### Installation
-<img align='right' src="https://github.com/anupammaurya6767/rakshak-app/assets/96181413/1645ae51-c62a-4fe2-acca-ecfbb13d72b9" width="230">
 1. Clone the repository:
 
    ```bash
@@ -55,8 +54,7 @@ Rakshak is a comprehensive home security Flutter app designed to provide users w
    ```
 
 ## Screenshots
-
-Add some screenshots showcasing different aspects of the app.
+<img src="https://github.com/anupammaurya6767/rakshak-app/assets/96181413/1645ae51-c62a-4fe2-acca-ecfbb13d72b9">
 
 ## Contributing
 
