@@ -1,8 +1,6 @@
 # 🏠 Rakshak - Security Flutter App
 
-
-https://github.com/anupammaurya6767/rakshak-app/assets/96181413/6b417f9f-762e-43c3-bccc-fb6649fe4547
-
+![sample](https://github.com/anupammaurya6767/rakshak-app/assets/96181413/78d227d6-71a6-4ae6-a14d-db3c7f33992f)
 
 ## Overview
 
