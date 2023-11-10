@@ -94,25 +94,25 @@ class _PreviousStatsState extends State<PreviousStats> {
 
   Widget _buildClickableElement(String title) {
     return FutureBuilder(
-      future: fetchfromServer(), // Replace with your MongoDB fetch function
+      future: fetchfromServer(),
       builder: (context, AsyncSnapshot<Object?> snapshot) {
         if (snapshot.connectionState == ConnectionState.waiting) {
           return CircularProgressIndicator();
         } else if (snapshot.hasError) {
           return Text('Error: ${snapshot.error}');
         } else {
-          // Check if snapshot.data is Map<String, dynamic>
           if (snapshot.data is Map<String, dynamic>) {
             Map<String, dynamic> data = snapshot.data as Map<String, dynamic>;
 
-            // Access properties with proper casting
             String timestamp = data['timestamp'].toString();
             String link = data['link'].toString();
+            print(link);
 
             return InkWell(
-              onTap: () => {
-                //              if (await canLaunch($link)) {
-                //   await launch($link);
+              onTap: () {
+                // Uncomment the code to launch the link
+                // if (await canLaunch(link)) {
+                //   await launch(link);
                 // } else {
                 //   print('Could not launch $link');
                 // }
