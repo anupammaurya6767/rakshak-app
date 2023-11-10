@@ -1,6 +1,8 @@
 # 🏠 Rakshak - Security Flutter App
 
-![Rakshak UI](path/to/your/ui/interface.gif)
+
+https://github.com/anupammaurya6767/rakshak-app/assets/96181413/6b417f9f-762e-43c3-bccc-fb6649fe4547
+
 
 ## Overview
 
