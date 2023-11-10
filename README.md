@@ -54,7 +54,7 @@ Rakshak is a comprehensive home security Flutter app designed to provide users w
    ```
 
 ## Screenshots
-<img src="https://github.com/anupammaurya6767/rakshak-app/assets/96181413/1645ae51-c62a-4fe2-acca-ecfbb13d72b9">
+<img src="https://github.com/anupammaurya6767/rakshak-app/assets/96181413/1645ae51-c62a-4fe2-acca-ecfbb13d72b9" width="230">
 
 ## Contributing
 
